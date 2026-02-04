@@ -23,6 +23,7 @@ It uses buscasimpsons and frinkiac as backend.
  - Up to season 20.
  - Almost all simpsons frames can be found (99.9%).
  - Upload any image or use an URL.
+ - Multilanguage website.
 
 # How does it works
 - The main API is publicly hosted at buscasimpsons website.
