@@ -1,4 +1,9 @@
 <p align="center"> <img src="https://github.com/DK-Code1/simpsons-image-search/blob/main/src/assets/logo.png"/> </p>
+<p align="center">
+  <a href="https://dk-code1.github.io/simpsons-image-search/">
+    <img src="https://img.shields.io/badge/VISIT%20ON%20PAGES-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 # Simpsons image search
 
@@ -6,7 +11,11 @@ Small website that allows users to find any simpsons series scenes by uploading 
 It uses buscasimpsons and frinkiac as backend.
 
 ![Guide image](https://github.com/DK-Code1/simpsons-image-search/blob/main/guide.gif)
-
+<p align="center">
+  <a href="https://dk-code1.github.io/simpsons-image-search/">
+    <img src="https://img.shields.io/badge/VISIT%20ON%20PAGES-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 # Features
  - Frinkiac support.
